@@ -1,4 +1,4 @@
-# gungnir
+# Project Gungnir
 
 Tests whether a learned prior over the CVAE-Opt latent space improves latent search on CVRP, comparing arms at an equal decode budget.
 
